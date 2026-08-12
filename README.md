@@ -1,5 +1,27 @@
 # Experiencias de uso en Linux Mint
 
+### Comandos que se utilizaron de manera sguida
+
+| Comando     | Función                           |
+| ----------- | --------------------------------- |
+| `pwd`       | Saber dónde estás                 |
+| `ls`        | Ver archivos y carpetas           |
+| `ls -la`    | Ver archivos normales y ocultos   |
+| `cd`        | Cambiar de carpeta                |
+| `cd ..`     | Subir una carpeta                 |
+| `cd ~`      | Ir a la carpeta personal          |
+| `mkdir`     | Crear una carpeta                 |
+| `touch`     | Crear un archivo                  |
+| `cat`       | Leer un archivo                   |
+| `clear`     | Limpiar la terminal               |
+| `rm`        | Eliminar un archivo               |
+| `rm -r`     | Eliminar una carpeta              |
+| `htop`      | Monitorizar procesos y recursos   |
+| `fastfetch` | Consultar información del sistema |
+| `neofetch`  | Consultar información del sistema |
+
+---
+
 Primer Dia de uso 7/8/2026 El día de instalación estoy teniendo problemas con el panel de bienvenida para configura o instalar mejor dicho Linux o 
 UBUNTU, aun así no entiendo que pasa pero voy a buscar la solucion y ayuda
 
