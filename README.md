@@ -50,7 +50,7 @@ nuevo para que cualquier cosa que quiera hacer desde linux lo haga comodamente s
 
 ---
 
-Quinto y sexto dia de uso 11/08/2026 y 11
+Quinto y sexto dia de uso 11/08/2026 y 12
 
 En estos dos dias pude administrar mis estudios en base a linux y manejarme con git tanto en windows como en linux para una mejor practica de estudio y aprender mas sobre git.
-Las novedades son que ademas de manejarme con git en dos equipos y progamar, aprender a utilizar docker en linux e administrar mas comandos en linux (los cuales quedaran registrados en el cuadrado de comandos de linux)
+Las novedades son que ademas de manejarme con git en dos equipos y progamar, aprender a utilizar docker en linux e administrar mas comandos en linux (los cuales quedaran registrados en el cuadrado de comandos de linux) y saber como hacer un servidor local en este sistema operativo para PostgreSQL y demas cosas que vi que se pueden realizar.
