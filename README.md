@@ -1,4 +1,5 @@
 # Experiencias de uso en Linux Mint
+Ultima edicion 12/08/2026
 Este repositorio Muestra la experiencia basica de uso de linux Mint para quienes le interese y opinar sobre como lleve a cabo mi proceso de aprendizaje y como cometi errores y afronte problemas.
 
 ### Comandos que utilizo y los entiendo
